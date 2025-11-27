@@ -1,0 +1,11 @@
+- Himanshu opened discussing the customer complaints about onboarding delays.  
+- Asha says the new UI mockups are 80% done; will share final by next Tuesday.  
+- Ankit mentioned API latency still high (~900ms).  
+- Decision: Backend team must prioritize caching layer improvement.  
+- Tanvi flagged 17 open bugs; 5 are critical.  
+- Rahul asked: "Can we commit to reducing onboarding dropoff by 20% in Q1?"  
+- Asha: Might need additional UX research interviews.  
+- Action item: Tanvi to run regression tests before Feb 5.  
+- Another action item: Prakash to deliver latency improvement plan by Feb 2.  
+- Open question: Should we remove the SMS verification step entirely? or add any new email function
+- Key takeaway: backend performance are the biggest blockers and marketing failures.
